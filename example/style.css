@@ -9,3 +9,23 @@
 .Example__Example___1p7HY .active {
   color: #f00;
 }
+.Tabs__Tabs___1XBnr {
+  list-style: none;
+  margin: 0;
+  padding: 0.5em;
+  line-height: 2em;
+}
+
+.Tabs__Tabs___1XBnr li {
+  display: inline-block;
+}
+
+.Tabs__Tabs___1XBnr li + li {
+  margin-left: 1em;
+}
+
+.Tabs__Tabs___1XBnr li a {
+  padding: 0.5em 1em;
+  background: #fff;
+  border-radius: 1em;
+}
